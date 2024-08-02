@@ -1,0 +1,14 @@
+D:\VS code\ITI Projects\ITI_Solution\Day2\bin\Debug\net8.0\Day2.exe
+D:\VS code\ITI Projects\ITI_Solution\Day2\bin\Debug\net8.0\Day2.deps.json
+D:\VS code\ITI Projects\ITI_Solution\Day2\bin\Debug\net8.0\Day2.runtimeconfig.json
+D:\VS code\ITI Projects\ITI_Solution\Day2\bin\Debug\net8.0\Day2.dll
+D:\VS code\ITI Projects\ITI_Solution\Day2\bin\Debug\net8.0\Day2.pdb
+D:\VS code\ITI Projects\ITI_Solution\Day2\obj\Debug\net8.0\Day2.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS code\ITI Projects\ITI_Solution\Day2\obj\Debug\net8.0\Day2.AssemblyInfoInputs.cache
+D:\VS code\ITI Projects\ITI_Solution\Day2\obj\Debug\net8.0\Day2.AssemblyInfo.cs
+D:\VS code\ITI Projects\ITI_Solution\Day2\obj\Debug\net8.0\Day2.csproj.CoreCompileInputs.cache
+D:\VS code\ITI Projects\ITI_Solution\Day2\obj\Debug\net8.0\Day2.dll
+D:\VS code\ITI Projects\ITI_Solution\Day2\obj\Debug\net8.0\refint\Day2.dll
+D:\VS code\ITI Projects\ITI_Solution\Day2\obj\Debug\net8.0\Day2.pdb
+D:\VS code\ITI Projects\ITI_Solution\Day2\obj\Debug\net8.0\Day2.genruntimeconfig.cache
+D:\VS code\ITI Projects\ITI_Solution\Day2\obj\Debug\net8.0\ref\Day2.dll

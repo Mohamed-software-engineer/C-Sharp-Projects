@@ -1,0 +1,14 @@
+D:\VS code\ITI Projects\ITI_Solution\what's greater\obj\Debug\net8.0\what's greater.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS code\ITI Projects\ITI_Solution\what's greater\obj\Debug\net8.0\what's greater.AssemblyInfoInputs.cache
+D:\VS code\ITI Projects\ITI_Solution\what's greater\obj\Debug\net8.0\what's greater.AssemblyInfo.cs
+D:\VS code\ITI Projects\ITI_Solution\what's greater\obj\Debug\net8.0\what's greater.csproj.CoreCompileInputs.cache
+D:\VS code\ITI Projects\ITI_Solution\what's greater\bin\Debug\net8.0\what's greater.exe
+D:\VS code\ITI Projects\ITI_Solution\what's greater\bin\Debug\net8.0\what's greater.deps.json
+D:\VS code\ITI Projects\ITI_Solution\what's greater\bin\Debug\net8.0\what's greater.runtimeconfig.json
+D:\VS code\ITI Projects\ITI_Solution\what's greater\bin\Debug\net8.0\what's greater.dll
+D:\VS code\ITI Projects\ITI_Solution\what's greater\bin\Debug\net8.0\what's greater.pdb
+D:\VS code\ITI Projects\ITI_Solution\what's greater\obj\Debug\net8.0\what's greater.dll
+D:\VS code\ITI Projects\ITI_Solution\what's greater\obj\Debug\net8.0\refint\what's greater.dll
+D:\VS code\ITI Projects\ITI_Solution\what's greater\obj\Debug\net8.0\what's greater.pdb
+D:\VS code\ITI Projects\ITI_Solution\what's greater\obj\Debug\net8.0\what's greater.genruntimeconfig.cache
+D:\VS code\ITI Projects\ITI_Solution\what's greater\obj\Debug\net8.0\ref\what's greater.dll

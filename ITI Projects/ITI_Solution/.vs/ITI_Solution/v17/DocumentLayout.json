@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\VS code\\ITI Projects\\ITI_Solution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3029270B-5410-4412-AC79-5C624CEA3F30}|Day2\\Day2.csproj|d:\\vs code\\iti projects\\iti_solution\\day2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3029270B-5410-4412-AC79-5C624CEA3F30}|Day2\\Day2.csproj|solutionrelative:day2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB86F68A-7507-47F7-8C77-290B8F1DDDB8}|Day2.Calculator\\Day2.Calculator.csproj|d:\\vs code\\iti projects\\iti_solution\\day2.calculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB86F68A-7507-47F7-8C77-290B8F1DDDB8}|Day2.Calculator\\Day2.Calculator.csproj|solutionrelative:day2.calculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3029270B-5410-4412-AC79-5C624CEA3F30}|Day2\\Day2.csproj|d:\\vs code\\iti projects\\iti_solution\\day2\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3029270B-5410-4412-AC79-5C624CEA3F30}|Day2\\Day2.csproj|solutionrelative:day2\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16B34146-8454-4B04-9939-4FDDDB1BFE8D}|what\u0027s greater\\what\u0027s greater.csproj|d:\\vs code\\iti projects\\iti_solution\\what\u0027s greater\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16B34146-8454-4B04-9939-4FDDDB1BFE8D}|what\u0027s greater\\what\u0027s greater.csproj|solutionrelative:what\u0027s greater\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\VS code\\ITI Projects\\ITI_Solution\\Day2.Calculator\\Program.cs",
+              "RelativeDocumentMoniker": "Day2.Calculator\\Program.cs",
+              "ToolTip": "D:\\VS code\\ITI Projects\\ITI_Solution\\Day2.Calculator\\Program.cs",
+              "RelativeToolTip": "Day2.Calculator\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC4AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T13:06:20.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\VS code\\ITI Projects\\ITI_Solution\\Day2\\Employee.cs",
+              "RelativeDocumentMoniker": "Day2\\Employee.cs",
+              "ToolTip": "D:\\VS code\\ITI Projects\\ITI_Solution\\Day2\\Employee.cs",
+              "RelativeToolTip": "Day2\\Employee.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAswBcAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T12:18:23.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\VS code\\ITI Projects\\ITI_Solution\\Day2\\Program.cs",
+              "RelativeDocumentMoniker": "Day2\\Program.cs",
+              "ToolTip": "D:\\VS code\\ITI Projects\\ITI_Solution\\Day2\\Program.cs",
+              "RelativeToolTip": "Day2\\Program.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAswCwAAABkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T12:17:22.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\VS code\\ITI Projects\\ITI_Solution\\what\u0027s greater\\Program.cs",
+              "RelativeDocumentMoniker": "what\u0027s greater\\Program.cs",
+              "ToolTip": "D:\\VS code\\ITI Projects\\ITI_Solution\\what\u0027s greater\\Program.cs",
+              "RelativeToolTip": "what\u0027s greater\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T16:21:48.678Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

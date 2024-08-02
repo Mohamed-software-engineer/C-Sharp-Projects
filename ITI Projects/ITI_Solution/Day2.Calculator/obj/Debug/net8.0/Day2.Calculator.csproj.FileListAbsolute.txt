@@ -1,0 +1,14 @@
+D:\VS code\ITI Projects\ITI_Solution\Day2.Calculator\bin\Debug\net8.0\Day2.Calculator.exe
+D:\VS code\ITI Projects\ITI_Solution\Day2.Calculator\bin\Debug\net8.0\Day2.Calculator.deps.json
+D:\VS code\ITI Projects\ITI_Solution\Day2.Calculator\bin\Debug\net8.0\Day2.Calculator.runtimeconfig.json
+D:\VS code\ITI Projects\ITI_Solution\Day2.Calculator\bin\Debug\net8.0\Day2.Calculator.dll
+D:\VS code\ITI Projects\ITI_Solution\Day2.Calculator\bin\Debug\net8.0\Day2.Calculator.pdb
+D:\VS code\ITI Projects\ITI_Solution\Day2.Calculator\obj\Debug\net8.0\Day2.Calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS code\ITI Projects\ITI_Solution\Day2.Calculator\obj\Debug\net8.0\Day2.Calculator.AssemblyInfoInputs.cache
+D:\VS code\ITI Projects\ITI_Solution\Day2.Calculator\obj\Debug\net8.0\Day2.Calculator.AssemblyInfo.cs
+D:\VS code\ITI Projects\ITI_Solution\Day2.Calculator\obj\Debug\net8.0\Day2.Calculator.csproj.CoreCompileInputs.cache
+D:\VS code\ITI Projects\ITI_Solution\Day2.Calculator\obj\Debug\net8.0\Day2.Calculator.dll
+D:\VS code\ITI Projects\ITI_Solution\Day2.Calculator\obj\Debug\net8.0\refint\Day2.Calculator.dll
+D:\VS code\ITI Projects\ITI_Solution\Day2.Calculator\obj\Debug\net8.0\Day2.Calculator.pdb
+D:\VS code\ITI Projects\ITI_Solution\Day2.Calculator\obj\Debug\net8.0\Day2.Calculator.genruntimeconfig.cache
+D:\VS code\ITI Projects\ITI_Solution\Day2.Calculator\obj\Debug\net8.0\ref\Day2.Calculator.dll
